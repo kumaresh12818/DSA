@@ -26,19 +26,6 @@ I am solving problems topic-wise to strengthen my problem-solving skills and pre
 ## 🛠️ Language Used
 - Java
 
----
-
-## 📌 Problem Structure
-
-Each file contains:
-- Problem Name
-- Approach Explanation
-- Time Complexity
-- Space Complexity
-- Clean Java Implementation
-
----
-
 ## 🎯 Goal
 
 - Master core DSA concepts
